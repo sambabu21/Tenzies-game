@@ -102,7 +102,7 @@ main {
 
 @media (max-width: 520px) {
   main {
-    width: 80vw;
+    width: 70vw;
   }
   .title {
     font-size: 2rem;
