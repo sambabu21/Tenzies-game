@@ -124,6 +124,8 @@ main {
 
   .footer {
     font-size: 0.8rem;
+    justify-content: space-between;
+    gap: 70px;
   }
   .roll-dice {
     width: 100px;
