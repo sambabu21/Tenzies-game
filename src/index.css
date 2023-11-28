@@ -102,7 +102,7 @@ main {
 
 @media (max-width: 520px) {
   main {
-    width: 70vw;
+    width: 80vw;
   }
   .title {
     font-size: 2rem;
@@ -124,5 +124,8 @@ main {
 
   .footer {
     font-size: 0.8rem;
+  }
+  .roll-dice {
+    width: 100px;
   }
 }
